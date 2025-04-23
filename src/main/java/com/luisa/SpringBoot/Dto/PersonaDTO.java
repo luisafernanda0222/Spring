@@ -10,6 +10,7 @@ public class PersonaDTO {
         this.id = id;
         this.nombre = nombre;
     }
+
     //GETTER SETTER
 
     public int getId() {

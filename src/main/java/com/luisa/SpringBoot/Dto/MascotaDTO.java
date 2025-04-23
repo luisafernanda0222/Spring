@@ -16,6 +16,7 @@ public class MascotaDTO {
         this.edad = edad;
         this.idPersona = idPersona;
     }
+
     //GETTER SETTER
 
     public int getId() {
